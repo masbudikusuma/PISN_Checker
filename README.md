@@ -10,7 +10,7 @@
         <h2>Cara Instalasi</h2>
         <p>Untuk menginstal aplikasi ini, ikuti langkah-langkah berikut:</p>
         <ol>
-            <li>Unduh file <code>ceker_pisn_v1.0.zip</code> dari GitHub.</li>
+            <li>Unduh file <code>pisn_checker_V.XX.zip</code> dari GitHub.</li>
             <li>Ekstrak file zip yang telah diunduh.</li>
             <li>Buka Google Chrome dan masuk ke <a href="chrome://extensions/"><code>chrome://extensions/</code></a>.</li>
             <li>Aktifkan mode Developer dengan mengklik tombol di pojok kanan atas.</li>
