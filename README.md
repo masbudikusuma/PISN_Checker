@@ -35,6 +35,6 @@
         <strong>Version 1.1 : </strong> Input kode prodi dihilangkan, hanya butuh NIM untuk Mempermudah<br>
         <strong>Version 1.1 : </strong> perbaikan bug<br>
         <strong>Version 1.0 : </strong> Cek Eligible PISN
-        <img src="https://raw.githubusercontent.com/masbudikusuma/PISN_Checker/refs/heads/main/PISN_checker.png"></img>
-<img src="https://raw.githubusercontent.com/masbudikusuma/PISN_Checker/refs/heads/main/PISN_checker.png"></img>
+        <img src="https://raw.githubusercontent.com/masbudikusuma/PISN_Checker/refs/heads/main/img_cek.png"></img>
+        <img src="https://raw.githubusercontent.com/masbudikusuma/PISN_Checker/refs/heads/main/img_feeder.png"></img>
 
