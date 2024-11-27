@@ -28,4 +28,13 @@
         <p>
             Dengan aplikasi ini, Anda dapat dengan mudah melakukan pengecekan dan mendapatkan data yang diperlukan dengan cepat dan efisien. Selamat mencoba!
         </p>
+<h2>ChangeLog</h2>
+        <strong>Version 1.1 : </strong> Penambahan Menu Neofeeder<br>
+        <strong>Version 1.1 : </strong> Update Css Cek PISN<br>
+        <strong>Version 1.1 : </strong> Cek Data Profil, AKM, dan KRS Mahasiswa<br>
+        <strong>Version 1.1 : </strong> Input kode prodi dihilangkan, hanya butuh NIM untuk Mempermudah<br>
+        <strong>Version 1.1 : </strong> perbaikan bug<br>
+        <strong>Version 1.0 : </strong> Cek Eligible PISN
         <img src="https://raw.githubusercontent.com/masbudikusuma/PISN_Checker/refs/heads/main/PISN_checker.png"></img>
+<img src="https://raw.githubusercontent.com/masbudikusuma/PISN_Checker/refs/heads/main/PISN_checker.png"></img>
+
