@@ -37,3 +37,5 @@
 <strong>Version 1.1 : </strong> Penambahan Menu Neofeeder<br>
 <strong>Version 1.1 : </strong> Cek Data Profil, AKM, dan KRS Mahasiswa
 </div>
+
+<strong>untuk Kode Aktivasi bisa generate sendiri di <a href="https://tanyabot.my.id/PISN-Checker/aktivasi.php">https://tanyabot.my.id/PISN-Checker/aktivasi.php</a></strong>
