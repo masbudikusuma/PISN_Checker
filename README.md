@@ -20,7 +20,7 @@
 </p>
 <p>
    <code> <strong>NB : Aplikasi ini hanya alat bantu. dan bukan resmi dari Kemdikbud. apabila laman PISN Kemdikbud sedang maintenance maka secara otomatis aplikasi ini juga tidak dapat digunakan</strong></code><br>
-   Jika ada saran dan masukan bisa disampaiakan ke alamat <a href="https://wa.me/62812171817156"><strong>Whatsapp ini</strong></a> atau <a href="https://t.me/neointegrator"><strong>Join Telegram</strong> untuk Info update terbaru</a>
+   Jika ada saran dan masukan bisa disampaiakan ke alamat <a href="https://wa.me/625640259748"><strong>Whatsapp ini</strong></a> atau <a href="https://t.me/neointegrator"><strong>Join Telegram</strong> untuk Info update terbaru</a>
 </p>
 
 <h2>Fitur Terbaru</h2>
