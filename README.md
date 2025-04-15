@@ -3,6 +3,20 @@
             Cek Eligible PISN adalah alat inovatif yang dirancang untuk memudahkan Operator PISN dalam melakukan Cek Eligible Penomoran Ijazah dan Sertifikat Nasional. Aplikasi ini merupakan pendukung dari aplikasi(Non Oficial) <a href="https://pisn.kemdikbud.go.id/login">pisn.kemdikbud.go.id</a> dan memberikan kemudahan akses informasi penting bagi pengguna yang ingin memastikan kelayakan mereka dalam mendapatkan nomor ijazah dan sertifikat. Dikembangkan secara independen, aplikasi ini bukanlah produk resmi dari Kementerian Pendidikan dan Kebudayaan (Kemdikbud), tetapi bertujuan untuk membantu proses reservasi Penomoran Ijazah. Dengan interface yang sederhana dan mudah dipahami, pengguna dapat dengan cepat mendapatkan informasi yang mereka butuhkan.
         </p>
 
+<h2>Cara Instalasi</h2>
+<p>Aplikasi ini hanya bisa digunakan pada browser Google Chrome atau Chromium. untuk instalasi, Ikuti Langkah-langkah berikut : </p>
+<ol>
+    <li>Download Versi Terbaru PISN Checker, Lalu extract </li>
+    <li>Buka Google Chrome/Chromium, lalu Klik titik tiga di kanan atas lalu pilih <b>Extensions</b> --> <b>Manage Extensions</b></li>
+    <li>Aktifkan <b>Developer Mode</b> hingga muncul tombol <b>Load Unpacked</b></li>
+    <li>Klik <b>Load Unpacked</b> lalu arahkan ke folder hasil extract dari PISN Checker.</li>
+    <li>Setelah berhasil akan ada tombol/ikon <img src="https://github.com/user-attachments/assets/c7c93df5-91b6-4075-82a9-5c605c9b1a3d"> di extension bar, lalu tinggal dijalankan</li>
+    <li>untuk mempermudah, silahkan klik kanan ikon tersebut lalu klik <b>Pin</b> sehingga bisa digunakan sewaktu-waktu (opsional)</li>
+</ol>
+<p>
+    Dengan aplikasi ini, Anda dapat dengan mudah melakukan pengecekan dan mendapatkan data yang diperlukan dengan cepat dan efisien. Selamat mencoba! dan Semoga Bermanfaat
+</p>
+
 <h2>Cara Penggunaan</h2>
 <p>Setelah aplikasi terinstal, berikut adalah cara penggunaannya:</p>
 <p>Untuk menggunakan Aplikasi ini, sebelumnya anda harus sudah posisi Login pada aplikasi <a href="https://pisn.kemdikbud.go.id">pisn.kemdikbud.go.id</a>. setelah login ikuti langkah berikut. </p>
