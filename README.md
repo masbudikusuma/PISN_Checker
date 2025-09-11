@@ -35,7 +35,7 @@
 <p>
    <code> <strong>NB : Aplikasi ini hanya alat bantu. dan bukan resmi dari Kemdikbud. apabila laman PISN Kemdikbud sedang maintenance maka secara otomatis aplikasi ini juga tidak dapat digunakan</strong></code><br><br>
    Jika ada saran dan masukan bisa disampaiakan ke alamat <a href="https://wa.me/625640259748"><strong>Whatsapp ini</strong></a> atau <a href="https://t.me/neointegrator"><strong>Join Telegram</strong> untuk Info update terbaru</a>
-        <br><br><strong><a href="https://wa.me/625640259748">OPEN DONASI bisa melalui OVO/DANA/GOPAY </a><strong><br>
+        <br><br><strong><a href="https://github.com/masbudikusuma/PISN_Checker/blob/main/donasi.md">OPEN DONASI bisa melalui OVO/DANA/GOPAY </a><strong><br>
 </p>
 
  <h2>Fitur Terbaru</h2>
