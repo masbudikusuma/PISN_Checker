@@ -38,10 +38,13 @@
         <br><br><strong><a href="https://github.com/masbudikusuma/PISN_Checker/blob/main/donasi.md">OPEN DONASI bisa melalui OVO/DANA/GOPAY </a><strong><br>
 </p>
 
- <h2>Fitur Terbaru</h2>
-        <strong>Version 1.5 : </strong> Generate PISN<br>        
-        <strong>Version 1.5 : </strong> Generate Eligible dan Not Eligible<br>        
+            <h2>Fitur Terbaru</h2>
+        <strong>Version 1.6 : </strong> Generate PISN<br>       
+        <strong>Version 1.6 : </strong> Perbaikan Bug Cek eligible PISN<br>        
+        <strong>Version 1.6 : </strong> Penambahan Akumulasi <br>
         <strong>---</strong><br>
+        <strong>Version 1.5 : </strong> Generate PISN<br>        
+        <strong>Version 1.5 : </strong> Generate Eligible dan Not Eligible<br>
         <strong>Version 1.4 : </strong> Penyesuaian migrasi domain dari kemdikbud.go.id ke kemdiktisaintek.go.id<br>        
         <strong>---</strong><br>
         <strong>Version 1.3 : </strong> Cek Data Mahasiswa Neofeeder / PDDIKTI<br>        
@@ -55,4 +58,4 @@
         <strong>Version 1.1 : </strong> Penambahan Menu Neofeeder<br>
         <strong>Version 1.1 : </strong> Cek Data Profil, AKM, dan KRS Mahasiswa
 
-<strong>untuk Kode Aktivasi bisa generate sendiri di <a href="https://tanyabot.my.id/PISN-Checker/aktivasi.php">https://tanyabot.my.id/PISN-Checker/aktivasi.php</a></strong>
+<strong>untuk Kode Aktivasi bisa generate sendiri di <a href="http://temanpintar.my.id/pisn/"> http://temanpintar.my.id/pisn/ </a></strong>
