@@ -58,4 +58,4 @@
         <strong>Version 1.1 : </strong> Penambahan Menu Neofeeder<br>
         <strong>Version 1.1 : </strong> Cek Data Profil, AKM, dan KRS Mahasiswa
 
-<strong>untuk Kode Aktivasi bisa generate sendiri di <a href="http://temanpintar.my.id/pisn/"> http://temanpintar.my.id/pisn/ </a></strong>
+<strong>untuk Kode Aktivasi bisa generate sendiri di <a href="https://ext-pisn.masbudi.my.id/pisn-aktivasi.php"> Aktivasi gratis </a></strong>
