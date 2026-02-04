@@ -1,4 +1,4 @@
-<h1>Tentang Cek Eligible PISN <b>Version 1.7</b>b</h1> 
+<h1>Tentang Cek Eligible PISN <b>Version 1.7</b></h1> 
         <p>
             Cek Eligible PISN adalah alat inovatif yang dirancang untuk memudahkan Operator PISN dalam melakukan Cek Eligible Penomoran Ijazah dan Sertifikat Nasional. Aplikasi ini merupakan pendukung dari aplikasi(Non Oficial) <a href="https://pisn.kemdikbud.go.id/login">pisn.kemdikbud.go.id</a> dan memberikan kemudahan akses informasi penting bagi pengguna yang ingin memastikan kelayakan mereka dalam mendapatkan nomor ijazah dan sertifikat. Dikembangkan secara independen, aplikasi ini bukanlah produk resmi dari Kementerian Pendidikan dan Kebudayaan (Kemdikbud), tetapi bertujuan untuk membantu proses reservasi Penomoran Ijazah. Dengan interface yang sederhana dan mudah dipahami, pengguna dapat dengan cepat mendapatkan informasi yang mereka butuhkan.
         </p>
