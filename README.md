@@ -39,6 +39,9 @@
 </p>
 
             <h2>Fitur Terbaru</h2>
+            <strong>Version 1.7 : </strong> Download PISN yang sudah digenerate<br>       
+        <strong>Version 1.7 : </strong> Perbaikan pengambilan tanggal<br>        
+        <strong>---</strong><br>
         <strong>Version 1.6 : </strong> Generate PISN<br>       
         <strong>Version 1.6 : </strong> Perbaikan Bug Cek eligible PISN<br>        
         <strong>Version 1.6 : </strong> Penambahan Akumulasi <br>
